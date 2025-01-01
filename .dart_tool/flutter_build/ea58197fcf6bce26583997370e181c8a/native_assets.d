@@ -1,0 +1,1 @@
+ /Users/lyc/StudioProjects/Noisy2/.dart_tool/flutter_build/ea58197fcf6bce26583997370e181c8a/native_assets.yaml: 

@@ -1,0 +1,14 @@
+com.example.noisy_app-jetified-window-1.0.0-beta04-0 /Users/lyc/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.noisy_app-jetified-window-java-1.0.0-beta04-1 /Users/lyc/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.noisy_app-core-1.6.0-2 /Users/lyc/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+com.example.noisy_app-jetified-annotation-experimental-1.1.0-3 /Users/lyc/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.noisy_app-debug-4 /Users/lyc/StudioProjects/Noisy2/android/app/src/debug/res
+com.example.noisy_app-main-5 /Users/lyc/StudioProjects/Noisy2/android/app/src/main/res
+com.example.noisy_app-pngs-6 /Users/lyc/StudioProjects/Noisy2/build/app/generated/res/pngs/debug
+com.example.noisy_app-resValues-7 /Users/lyc/StudioProjects/Noisy2/build/app/generated/res/resValues/debug
+com.example.noisy_app-rs-8 /Users/lyc/StudioProjects/Noisy2/build/app/generated/res/rs/debug
+com.example.noisy_app-mergeDebugResources-9 /Users/lyc/StudioProjects/Noisy2/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.noisy_app-mergeDebugResources-10 /Users/lyc/StudioProjects/Noisy2/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.noisy_app-merged_res-11 /Users/lyc/StudioProjects/Noisy2/build/app/intermediates/merged_res/debug
+com.example.noisy_app-packaged_res-12 /Users/lyc/StudioProjects/Noisy2/build/audio_streamer/intermediates/packaged_res/debug
+com.example.noisy_app-packaged_res-13 /Users/lyc/StudioProjects/Noisy2/build/permission_handler_android/intermediates/packaged_res/debug
